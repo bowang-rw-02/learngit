@@ -1,0 +1,1 @@
+print("xuezhezhege wanglenage")
